@@ -19,9 +19,23 @@ public class Inventory : MonoBehaviour
     void SwitchWeapon(int slot)
     {
         ActiveSlot = slot;
+
+        bool hasWeapon = false;
+
         if (items[slot] != null && items[slot].weaponPrefab != null)
+        {
+            hasWeapon = true;
             weaponSwitcher.EquipWeapon(items[slot].weaponPrefab);
 
-        quickAccessUI.UpdateUI(); // ќбновл€ем UI
+            // Ёффект доставани€
+            var equipEffect = weaponSwitcher.GetComponent<WeaponEquipEffect>();
+            if (equipEffect != null)
+                equipEffect.PlayEquipAnimation();
+        }
+
+        // ”станавливаем флаг в PlayerAttack
+        FindAnyObjectByType<PlayerAttack>()?.SetHasWeapon(hasWeapon);
+
+        quickAccessUI.UpdateUI();
     }
 }
