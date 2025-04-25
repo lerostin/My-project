@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      chertAttack1_0: 1124556562782316093
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

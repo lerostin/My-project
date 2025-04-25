@@ -130,6 +130,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 320e5fd1630a1d444bf2dd148baac216, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damage: 10
+  attackPoint: {fileID: 0}
+  weaponRange: 0
+  playerLayer:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!61 &7008999728129485269
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -167,7 +173,7 @@ BoxCollider2D:
   m_Offset: {x: 0.10412407, y: 0.29254103}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
+    pivot: {x: 0.5, y: 0.3839436}
     oldSize: {x: 2.62, y: 2.61}
     newSize: {x: 2.62, y: 2.61}
     adaptiveTilingThreshold: 0.5
@@ -189,6 +195,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0
-  facingDirection: -1
+  attackRange: 2
+  attackCooldown: 2
+  playerDetectRange: 5
+  detectionPoint: {fileID: 0}
+  playerLayer:
+    serializedVersion: 2
+    m_Bits: 0
   player: {fileID: 0}
   anim: {fileID: 0}
