@@ -25,7 +25,6 @@ public class EnemyHealth : MonoBehaviour
         }
     }
 
-    // Новый метод
     public void TakeDamage(int amount)
     {
         currentHealth -= amount;
