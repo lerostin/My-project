@@ -1,0 +1,5092 @@
+fileFormatVersion: 2
+guid: 1dac5e7edd9ed494d9ed0d2e0adb1479
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 734149352483253017
+    second: Dungen Tiles 2 (1)_0
+  - first:
+      213: 2445236306321640844
+    second: Dungen Tiles 2 (1)_1
+  - first:
+      213: -6636570258719932744
+    second: Dungen Tiles 2 (1)_2
+  - first:
+      213: 6334688262562478329
+    second: Dungen Tiles 2 (1)_3
+  - first:
+      213: -1416125415867823040
+    second: Dungen Tiles 2 (1)_4
+  - first:
+      213: 1826341134579545356
+    second: Dungen Tiles 2 (1)_5
+  - first:
+      213: 4862104453993287691
+    second: Dungen Tiles 2 (1)_6
+  - first:
+      213: -1489919526855297361
+    second: Dungen Tiles 2 (1)_7
+  - first:
+      213: 3332035617658832079
+    second: Dungen Tiles 2 (1)_8
+  - first:
+      213: 4064403012528802460
+    second: Dungen Tiles 2 (1)_9
+  - first:
+      213: 8082305532480419498
+    second: Dungen Tiles 2 (1)_10
+  - first:
+      213: -7919427812368679912
+    second: Dungen Tiles 2 (1)_11
+  - first:
+      213: -5284415070933550077
+    second: Dungen Tiles 2 (1)_12
+  - first:
+      213: 7558576757042030062
+    second: Dungen Tiles 2 (1)_13
+  - first:
+      213: 3596245780382538851
+    second: Dungen Tiles 2 (1)_14
+  - first:
+      213: -8368730931258551618
+    second: Dungen Tiles 2 (1)_15
+  - first:
+      213: -7007907985754897772
+    second: Dungen Tiles 2 (1)_16
+  - first:
+      213: -3398917446163682032
+    second: Dungen Tiles 2 (1)_17
+  - first:
+      213: 1660126592916274702
+    second: Dungen Tiles 2 (1)_18
+  - first:
+      213: -600161323298716157
+    second: Dungen Tiles 2 (1)_19
+  - first:
+      213: 8141092851388562678
+    second: Dungen Tiles 2 (1)_20
+  - first:
+      213: -794848292587007987
+    second: Dungen Tiles 2 (1)_21
+  - first:
+      213: -6248903558404668978
+    second: Dungen Tiles 2 (1)_22
+  - first:
+      213: 9113423015301508566
+    second: Dungen Tiles 2 (1)_23
+  - first:
+      213: -1456822928399060244
+    second: Dungen Tiles 2 (1)_24
+  - first:
+      213: -3919511131605317104
+    second: Dungen Tiles 2 (1)_25
+  - first:
+      213: -3754594766684859134
+    second: Dungen Tiles 2 (1)_26
+  - first:
+      213: 2461217181894320670
+    second: Dungen Tiles 2 (1)_27
+  - first:
+      213: -4698604164013556492
+    second: Dungen Tiles 2 (1)_28
+  - first:
+      213: 9158441071755364975
+    second: Dungen Tiles 2 (1)_29
+  - first:
+      213: -4879792825534012842
+    second: Dungen Tiles 2 (1)_30
+  - first:
+      213: -3629467867683532008
+    second: Dungen Tiles 2 (1)_31
+  - first:
+      213: -22981691147179011
+    second: Dungen Tiles 2 (1)_32
+  - first:
+      213: -7343855052752329113
+    second: Dungen Tiles 2 (1)_33
+  - first:
+      213: -5524271557922620298
+    second: Dungen Tiles 2 (1)_34
+  - first:
+      213: 9118443654929054729
+    second: Dungen Tiles 2 (1)_35
+  - first:
+      213: -1645176648510806748
+    second: Dungen Tiles 2 (1)_36
+  - first:
+      213: -5835886093370055029
+    second: Dungen Tiles 2 (1)_37
+  - first:
+      213: 5288315086515249551
+    second: Dungen Tiles 2 (1)_38
+  - first:
+      213: 3992563855185467372
+    second: Dungen Tiles 2 (1)_39
+  - first:
+      213: -115421860828955006
+    second: Dungen Tiles 2 (1)_40
+  - first:
+      213: 4619494199283762931
+    second: Dungen Tiles 2 (1)_41
+  - first:
+      213: 3114351380222192870
+    second: Dungen Tiles 2 (1)_42
+  - first:
+      213: -2295921558740678437
+    second: Dungen Tiles 2 (1)_43
+  - first:
+      213: 8230507855773950354
+    second: Dungen Tiles 2 (1)_44
+  - first:
+      213: 4120705694308530445
+    second: Dungen Tiles 2 (1)_45
+  - first:
+      213: -3370069975785948539
+    second: Dungen Tiles 2 (1)_46
+  - first:
+      213: 47983438203800586
+    second: Dungen Tiles 2 (1)_47
+  - first:
+      213: -8413793302573533983
+    second: Dungen Tiles 2 (1)_48
+  - first:
+      213: -865262648251569164
+    second: Dungen Tiles 2 (1)_49
+  - first:
+      213: 3278283404035690588
+    second: Dungen Tiles 2 (1)_50
+  - first:
+      213: -6616162462181245498
+    second: Dungen Tiles 2 (1)_51
+  - first:
+      213: 4162896434101877288
+    second: Dungen Tiles 2 (1)_52
+  - first:
+      213: 8113972492567024456
+    second: Dungen Tiles 2 (1)_53
+  - first:
+      213: 9046156199567783421
+    second: Dungen Tiles 2 (1)_54
+  - first:
+      213: 9065060295148448492
+    second: Dungen Tiles 2 (1)_55
+  - first:
+      213: 3199802136149892360
+    second: Dungen Tiles 2 (1)_56
+  - first:
+      213: -3966707956883425636
+    second: Dungen Tiles 2 (1)_57
+  - first:
+      213: -2805327583818779616
+    second: Dungen Tiles 2 (1)_58
+  - first:
+      213: -7768146036697799169
+    second: Dungen Tiles 2 (1)_59
+  - first:
+      213: -4798620806893724065
+    second: Dungen Tiles 2 (1)_60
+  - first:
+      213: 3056695398974793259
+    second: Dungen Tiles 2 (1)_61
+  - first:
+      213: -1606567723682464794
+    second: Dungen Tiles 2 (1)_62
+  - first:
+      213: -3348363545459255747
+    second: Dungen Tiles 2 (1)_63
+  - first:
+      213: -7951173051766784690
+    second: Dungen Tiles 2 (1)_64
+  - first:
+      213: -8851242590202899377
+    second: Dungen Tiles 2 (1)_65
+  - first:
+      213: -6701326455708559221
+    second: Dungen Tiles 2 (1)_66
+  - first:
+      213: -8054510583404169694
+    second: Dungen Tiles 2 (1)_67
+  - first:
+      213: 8031138247552866375
+    second: Dungen Tiles 2 (1)_68
+  - first:
+      213: 6726836248544725983
+    second: Dungen Tiles 2 (1)_69
+  - first:
+      213: -7811041098538922156
+    second: Dungen Tiles 2 (1)_70
+  - first:
+      213: 1580962927220562120
+    second: Dungen Tiles 2 (1)_71
+  - first:
+      213: -1438986451474807927
+    second: Dungen Tiles 2 (1)_72
+  - first:
+      213: 1616503119356047301
+    second: Dungen Tiles 2 (1)_73
+  - first:
+      213: -5701077273266455082
+    second: Dungen Tiles 2 (1)_74
+  - first:
+      213: -537836626999608545
+    second: Dungen Tiles 2 (1)_75
+  - first:
+      213: 2513882509972417204
+    second: Dungen Tiles 2 (1)_76
+  - first:
+      213: 5784338978771101227
+    second: Dungen Tiles 2 (1)_77
+  - first:
+      213: 2589664445606083860
+    second: Dungen Tiles 2 (1)_78
+  - first:
+      213: 5417767912914239435
+    second: Dungen Tiles 2 (1)_79
+  - first:
+      213: -4271358377010770676
+    second: Dungen Tiles 2 (1)_80
+  - first:
+      213: -514513657646077970
+    second: Dungen Tiles 2 (1)_81
+  - first:
+      213: -6022119785545394600
+    second: Dungen Tiles 2 (1)_82
+  - first:
+      213: -325672718463962193
+    second: Dungen Tiles 2 (1)_83
+  - first:
+      213: -5030890898432216712
+    second: Dungen Tiles 2 (1)_84
+  - first:
+      213: -4938952039606792123
+    second: Dungen Tiles 2 (1)_85
+  - first:
+      213: 8233590154679382056
+    second: Dungen Tiles 2 (1)_86
+  - first:
+      213: -9061452565385946498
+    second: Dungen Tiles 2 (1)_87
+  - first:
+      213: -3527093045863911823
+    second: Dungen Tiles 2 (1)_88
+  - first:
+      213: 7507234146391376901
+    second: Dungen Tiles 2 (1)_89
+  - first:
+      213: -2209367818063654955
+    second: Dungen Tiles 2 (1)_90
+  - first:
+      213: -604867117711270518
+    second: Dungen Tiles 2 (1)_91
+  - first:
+      213: -1753066193189340832
+    second: Dungen Tiles 2 (1)_92
+  - first:
+      213: 2096599361510099739
+    second: Dungen Tiles 2 (1)_93
+  - first:
+      213: 9210873193299874373
+    second: Dungen Tiles 2 (1)_94
+  - first:
+      213: -613487719922614789
+    second: Dungen Tiles 2 (1)_95
+  - first:
+      213: 1096406570048424031
+    second: Dungen Tiles 2 (1)_96
+  - first:
+      213: -3461084262930606019
+    second: Dungen Tiles 2 (1)_97
+  - first:
+      213: -5081813809673224595
+    second: Dungen Tiles 2 (1)_98
+  - first:
+      213: -4755841998729251774
+    second: Dungen Tiles 2 (1)_99
+  - first:
+      213: 6176736462256035819
+    second: Dungen Tiles 2 (1)_100
+  - first:
+      213: -4433228061078310283
+    second: Dungen Tiles 2 (1)_101
+  - first:
+      213: -460963864549234128
+    second: Dungen Tiles 2 (1)_102
+  - first:
+      213: 6717851790683848311
+    second: Dungen Tiles 2 (1)_103
+  - first:
+      213: 2649031214400025782
+    second: Dungen Tiles 2 (1)_104
+  - first:
+      213: 4511382452422546429
+    second: Dungen Tiles 2 (1)_105
+  - first:
+      213: -2697589109389844017
+    second: Dungen Tiles 2 (1)_106
+  - first:
+      213: -7499145717561514237
+    second: Dungen Tiles 2 (1)_107
+  - first:
+      213: -3466037661591155612
+    second: Dungen Tiles 2 (1)_108
+  - first:
+      213: 5642084661902131855
+    second: Dungen Tiles 2 (1)_109
+  - first:
+      213: 8721909806450538565
+    second: Dungen Tiles 2 (1)_110
+  - first:
+      213: -5224343898760128982
+    second: Dungen Tiles 2 (1)_111
+  - first:
+      213: -1329549098529628781
+    second: Dungen Tiles 2 (1)_112
+  - first:
+      213: -3396527090588654866
+    second: Dungen Tiles 2 (1)_113
+  - first:
+      213: 8490247040309488808
+    second: Dungen Tiles 2 (1)_114
+  - first:
+      213: 3639649383069057862
+    second: Dungen Tiles 2 (1)_115
+  - first:
+      213: 7376069489134669896
+    second: Dungen Tiles 2 (1)_116
+  - first:
+      213: 2568313932184010017
+    second: Dungen Tiles 2 (1)_117
+  - first:
+      213: 4433920450937169070
+    second: Dungen Tiles 2 (1)_118
+  - first:
+      213: -1117879259838294416
+    second: Dungen Tiles 2 (1)_119
+  - first:
+      213: 3499142642708136252
+    second: Dungen Tiles 2 (1)_120
+  - first:
+      213: -2176786190611356635
+    second: Dungen Tiles 2 (1)_121
+  - first:
+      213: -2022585478356446612
+    second: Dungen Tiles 2 (1)_122
+  - first:
+      213: -5327531513924909272
+    second: Dungen Tiles 2 (1)_123
+  - first:
+      213: -8061290106207504696
+    second: Dungen Tiles 2 (1)_124
+  - first:
+      213: 7384145369268219225
+    second: Dungen Tiles 2 (1)_125
+  - first:
+      213: -291894613814129347
+    second: Dungen Tiles 2 (1)_126
+  - first:
+      213: -4730471573819238631
+    second: Dungen Tiles 2 (1)_127
+  - first:
+      213: 3686326483524840008
+    second: Dungen Tiles 2 (1)_128
+  - first:
+      213: 2340330366848651868
+    second: Dungen Tiles 2 (1)_129
+  - first:
+      213: -9121875915991579443
+    second: Dungen Tiles 2 (1)_130
+  - first:
+      213: 9031171846399713426
+    second: Dungen Tiles 2 (1)_131
+  - first:
+      213: -3605603982285887128
+    second: Dungen Tiles 2 (1)_132
+  - first:
+      213: 1651537399180780328
+    second: Dungen Tiles 2 (1)_133
+  - first:
+      213: -2743924661284932059
+    second: Dungen Tiles 2 (1)_134
+  - first:
+      213: -1415548629534453203
+    second: Dungen Tiles 2 (1)_135
+  - first:
+      213: 7475783662362750221
+    second: Dungen Tiles 2 (1)_136
+  - first:
+      213: 128628882973694900
+    second: Dungen Tiles 2 (1)_137
+  - first:
+      213: 7813401642778660710
+    second: Dungen Tiles 2 (1)_138
+  - first:
+      213: 8255222594967791344
+    second: Dungen Tiles 2 (1)_139
+  - first:
+      213: 6826556413806658988
+    second: Dungen Tiles 2 (1)_140
+  - first:
+      213: -8738961518239454610
+    second: Dungen Tiles 2 (1)_141
+  - first:
+      213: 1351618031715456828
+    second: Dungen Tiles 2 (1)_142
+  - first:
+      213: 4505816782007981300
+    second: Dungen Tiles 2 (1)_143
+  - first:
+      213: -3242765364731509594
+    second: Dungen Tiles 2 (1)_144
+  - first:
+      213: 7643837866974380281
+    second: Dungen Tiles 2 (1)_145
+  - first:
+      213: -6929927695450975820
+    second: Dungen Tiles 2 (1)_146
+  - first:
+      213: 282307583314224717
+    second: Dungen Tiles 2 (1)_147
+  - first:
+      213: 4321877820692354852
+    second: Dungen Tiles 2 (1)_148
+  - first:
+      213: 4256268075301158443
+    second: Dungen Tiles 2 (1)_149
+  - first:
+      213: 4676921030950409196
+    second: Dungen Tiles 2 (1)_150
+  - first:
+      213: -2082484071966183707
+    second: Dungen Tiles 2 (1)_151
+  - first:
+      213: -5478559436253232922
+    second: Dungen Tiles 2 (1)_152
+  - first:
+      213: -7070496748372212346
+    second: Dungen Tiles 2 (1)_153
+  - first:
+      213: -5819992365914458881
+    second: Dungen Tiles 2 (1)_154
+  - first:
+      213: -4210664665447695144
+    second: Dungen Tiles 2 (1)_155
+  - first:
+      213: -3216108434377640823
+    second: Dungen Tiles 2 (1)_156
+  - first:
+      213: -8576092892695986362
+    second: Dungen Tiles 2 (1)_157
+  - first:
+      213: -4915813691863988484
+    second: Dungen Tiles 2 (1)_158
+  - first:
+      213: -1556381576294470178
+    second: Dungen Tiles 2 (1)_159
+  - first:
+      213: 4114127155030155812
+    second: Dungen Tiles 2 (1)_160
+  - first:
+      213: 436022630418742881
+    second: Dungen Tiles 2 (1)_161
+  - first:
+      213: 6337702973067522965
+    second: Dungen Tiles 2 (1)_162
+  - first:
+      213: -6703726422059299146
+    second: Dungen Tiles 2 (1)_163
+  - first:
+      213: 4224326288452733403
+    second: Dungen Tiles 2 (1)_164
+  - first:
+      213: 9193863935329062772
+    second: Dungen Tiles 2 (1)_165
+  - first:
+      213: -3505336108279882237
+    second: Dungen Tiles 2 (1)_166
+  - first:
+      213: -5657069035606401962
+    second: Dungen Tiles 2 (1)_167
+  - first:
+      213: 5528055185187635103
+    second: Dungen Tiles 2 (1)_168
+  - first:
+      213: 7929840859952576191
+    second: Dungen Tiles 2 (1)_169
+  - first:
+      213: 3072291682876211778
+    second: Dungen Tiles 2 (1)_170
+  - first:
+      213: -7504566604062472462
+    second: Dungen Tiles 2 (1)_171
+  - first:
+      213: 5782277695310740562
+    second: Dungen Tiles 2 (1)_172
+  - first:
+      213: -6574356875005187851
+    second: Dungen Tiles 2 (1)_173
+  - first:
+      213: -4215290728192063297
+    second: Dungen Tiles 2 (1)_174
+  - first:
+      213: 4103133577778057628
+    second: Dungen Tiles 2 (1)_175
+  - first:
+      213: 3812795073407019479
+    second: Dungen Tiles 2 (1)_176
+  - first:
+      213: 6190393478014115114
+    second: Dungen Tiles 2 (1)_177
+  - first:
+      213: -3168403460708378876
+    second: Dungen Tiles 2 (1)_178
+  - first:
+      213: 2804146761789533232
+    second: Dungen Tiles 2 (1)_179
+  - first:
+      213: -6556662517711070512
+    second: Dungen Tiles 2 (1)_180
+  - first:
+      213: -8374226513546162644
+    second: Dungen Tiles 2 (1)_181
+  - first:
+      213: -735971446846019264
+    second: Dungen Tiles 2 (1)_182
+  - first:
+      213: 972432608124514389
+    second: Dungen Tiles 2 (1)_183
+  - first:
+      213: 7180408855945256097
+    second: Dungen Tiles 2 (1)_184
+  - first:
+      213: -7177541373651884431
+    second: Dungen Tiles 2 (1)_185
+  - first:
+      213: -4477227059280859110
+    second: Dungen Tiles 2 (1)_186
+  - first:
+      213: 3273943984024500180
+    second: Dungen Tiles 2 (1)_187
+  - first:
+      213: -7949158516926879101
+    second: Dungen Tiles 2 (1)_188
+  - first:
+      213: -5967157211423419603
+    second: Dungen Tiles 2 (1)_189
+  - first:
+      213: 3592809936349183627
+    second: Dungen Tiles 2 (1)_190
+  - first:
+      213: 6264131247280442669
+    second: Dungen Tiles 2 (1)_191
+  - first:
+      213: 6121641415558427530
+    second: Dungen Tiles 2 (1)_192
+  - first:
+      213: 813304438606166695
+    second: Dungen Tiles 2 (1)_193
+  - first:
+      213: -8386206317392179130
+    second: Dungen Tiles 2 (1)_194
+  - first:
+      213: -8224254415804451088
+    second: Dungen Tiles 2 (1)_195
+  - first:
+      213: 8904292168444760573
+    second: Dungen Tiles 2 (1)_196
+  - first:
+      213: -8326140413460102124
+    second: Dungen Tiles 2 (1)_197
+  - first:
+      213: -2185222104850994808
+    second: Dungen Tiles 2 (1)_198
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91be8d642f8303a00800000000000000
+      internalID: 734149352483253017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 369
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d803617793fe120800000000000000
+      internalID: 2445236306321640844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 369
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be7312038a26e3a0800000000000000
+      internalID: -6636570258719932744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 369
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f87fd4896559e750800000000000000
+      internalID: 6334688262562478329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 369
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ccbcdef69e85ce0800000000000000
+      internalID: -1416125415867823040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 369
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c053c45e597785910800000000000000
+      internalID: 1826341134579545356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 369
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b005d198d3aa97340800000000000000
+      internalID: 4862104453993287691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 369
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa63fd1951eb25be0800000000000000
+      internalID: -1489919526855297361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 369
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc401898db4cd3e20800000000000000
+      internalID: 3332035617658832079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 369
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a8ec97109a76830800000000000000
+      internalID: 4064403012528802460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 369
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa67ba55f0e1a2070800000000000000
+      internalID: 8082305532480419498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 369
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c7a631d5a881290800000000000000
+      internalID: -7919427812368679912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 369
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cf843bd7cf9a6b0800000000000000
+      internalID: -5284415070933550077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 371
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5a303738575e860800000000000000
+      internalID: 7558576757042030062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 372
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cd2b8cb7e68e130800000000000000
+      internalID: 3596245780382538851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 370
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb29285be8b4cdb80800000000000000
+      internalID: -8368730931258551618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 370
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492c47201d8eebe90800000000000000
+      internalID: -7007907985754897772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 370
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d2988479e94d0d0800000000000000
+      internalID: -3398917446163682032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 370
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e34fc2754f90710800000000000000
+      internalID: 1660126592916274702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 369
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3060adcc47ccba7f0800000000000000
+      internalID: -600161323298716157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 369
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcbc72a0d8faf070800000000000000
+      internalID: 8141092851388562678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00960e60b128f4f0800000000000000
+      internalID: -794848292587007987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 352
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec18d9d525f6749a0800000000000000
+      internalID: -6248903558404668978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 352
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd6aea82f1697e70800000000000000
+      internalID: 9113423015301508566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 352
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce23124e34358cbe0800000000000000
+      internalID: -1456822928399060244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 352
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ac97b64691b99c0800000000000000
+      internalID: -3919511131605317104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 352
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2055530d3fff4ebc0800000000000000
+      internalID: -3754594766684859134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 352
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1226e1acfff72220800000000000000
+      internalID: 2461217181894320670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_28
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 352
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcfcc738643bceb0800000000000000
+      internalID: -4698604164013556492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_29
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 352
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a835a91a1591f70800000000000000
+      internalID: 9158441071755364975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_30
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 352
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652ab88874e774cb0800000000000000
+      internalID: -4879792825534012842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 355
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813570f343a81adc0800000000000000
+      internalID: -3629467867683532008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_32
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 355
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfba5de064a5eaff0800000000000000
+      internalID: -22981691147179011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 353
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7666dba2db2651a90800000000000000
+      internalID: -7343855052752329113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_34
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 353
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c7a337948d553b0800000000000000
+      internalID: -5524271557922620298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_35
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 353
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cf57c41383b8e70800000000000000
+      internalID: 9118443654929054729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_36
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 353
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425eeb00e882b29e0800000000000000
+      internalID: -1645176648510806748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_37
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 352
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8629079484c20fa0800000000000000
+      internalID: -5835886093370055029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_38
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 352
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81a4107d8ed36940800000000000000
+      internalID: 5288315086515249551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7d46b3caf686730800000000000000
+      internalID: 3992563855185467372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_40
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 335
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28eb9f9dd60f56ef0800000000000000
+      internalID: -115421860828955006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_41
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 335
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f64946cf7dbb1040800000000000000
+      internalID: 4619494199283762931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_42
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 335
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec24eb6416683b20800000000000000
+      internalID: 3114351380222192870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_43
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 335
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8c913b18f3320e0800000000000000
+      internalID: -2295921558740678437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_44
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 335
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291e778a943a83270800000000000000
+      internalID: 8230507855773950354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_45
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 335
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09703d1fffaf2930800000000000000
+      internalID: 4120705694308530445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_46
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 335
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ab111663b1b31d0800000000000000
+      internalID: -3370069975785948539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_47
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 335
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c4d3dcea87aa000800000000000000
+      internalID: 47983438203800586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_48
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 335
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e43b8ac1933c3b80800000000000000
+      internalID: -8413793302573533983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_49
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 335
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb2d8da438fdf3f0800000000000000
+      internalID: -865262648251569164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_50
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 335
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c501b9a036dce7d20800000000000000
+      internalID: 3278283404035690588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_51
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 335
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdb9696b4bae24a0800000000000000
+      internalID: -6616162462181245498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_52
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 338
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82af167304495c930800000000000000
+      internalID: 4162896434101877288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_53
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 338
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8439fb80efe9a9070800000000000000
+      internalID: 8113972492567024456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_54
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 336
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df57fe982276a8d70800000000000000
+      internalID: 9046156199567783421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_55
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 336
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea22d74f409dcd70800000000000000
+      internalID: 9065060295148448492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_56
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 336
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d10cce61bf76c20800000000000000
+      internalID: 3199802136149892360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_57
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 336
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c967f36312c63f8c0800000000000000
+      internalID: -3966707956883425636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_58
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 335
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02470effc697119d0800000000000000
+      internalID: -2805327583818779616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_59
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 335
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5e4474650023490800000000000000
+      internalID: -7768146036697799169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e1d41eccfd76db0800000000000000
+      internalID: -4798620806893724065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_61
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 318
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26a67235409b6a20800000000000000
+      internalID: 3056695398974793259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_62
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 318
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb7c42da2354b9e0800000000000000
+      internalID: -1606567723682464794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_63
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 318
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36980688193881d0800000000000000
+      internalID: -3348363545459255747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_64
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 318
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d38cd8c32c7a190800000000000000
+      internalID: -7951173051766784690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_65
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 318
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44d52692c11a2580800000000000000
+      internalID: -8851242590202899377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_66
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 318
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88509bf71b1003a0800000000000000
+      internalID: -6701326455708559221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_67
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 318
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226f19c8c41a83090800000000000000
+      internalID: -8054510583404169694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_68
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 318
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74811737fa5547f60800000000000000
+      internalID: 8031138247552866375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_69
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 318
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbcab08de58a5d50800000000000000
+      internalID: 6726836248544725983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_70
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 318
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f4c9b618b999390800000000000000
+      internalID: -7811041098538922156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_71
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 318
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c81b00f765b0f510800000000000000
+      internalID: 1580962927220562120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_72
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 318
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9838e3b4271b70ce0800000000000000
+      internalID: -1438986451474807927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_73
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf278fb509fe6610800000000000000
+      internalID: 1616503119356047301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_74
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 321
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd76e1fc64b1e0b0800000000000000
+      internalID: -5701077273266455082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_75
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 319
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b7e74ff683988f0800000000000000
+      internalID: -537836626999608545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_76
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 319
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba29fdd2da13e220800000000000000
+      internalID: 2513882509972417204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_77
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 319
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26e81a87a9164050800000000000000
+      internalID: 5784338978771101227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_78
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 319
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d3fc7b71650f320800000000000000
+      internalID: 2589664445606083860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_79
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 318
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf33c45637cf2b40800000000000000
+      internalID: 5417767912914239435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_80
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 318
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d42edcf2619b4c0800000000000000
+      internalID: -4271358377010770676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 301
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee72bebed841cd8f0800000000000000
+      internalID: -514513657646077970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_82
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 301
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85617bb26f12d6ca0800000000000000
+      internalID: -6022119785545394600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_83
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 301
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa37be6536afa7bf0800000000000000
+      internalID: -325672718463962193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_84
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 301
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871b337f16fae2ab0800000000000000
+      internalID: -5030890898432216712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_85
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 301
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540db84a941557bb0800000000000000
+      internalID: -4938952039606792123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_86
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 301
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82071db4f96934270800000000000000
+      internalID: 8233590154679382056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_87
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 301
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a5e13c6e04f3280800000000000000
+      internalID: -9061452565385946498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_88
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 301
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ee787ef8f3d0fc0800000000000000
+      internalID: -3527093045863911823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_89
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 301
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504475d5ead0f2860800000000000000
+      internalID: 7507234146391376901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_90
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 301
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfc22adcafb651e0800000000000000
+      internalID: -2209367818063654955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_91
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 301
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d5188af841b97f0800000000000000
+      internalID: -604867117711270518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_92
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 301
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069f33fd59bdba7e0800000000000000
+      internalID: -1753066193189340832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_93
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 301
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bce13d20e981d10800000000000000
+      internalID: 2096599361510099739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_94
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 305
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5429ec53e5893df70800000000000000
+      internalID: 9210873193299874373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_95
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 304
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdb2fb4b247c77f0800000000000000
+      internalID: -613487719922614789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_96
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 303
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58042967f7373f00800000000000000
+      internalID: 1096406570048424031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_97
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 303
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3893525332c7ffc0800000000000000
+      internalID: -3461084262930606019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_98
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 303
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6eb0c3c345c979b0800000000000000
+      internalID: -5081813809673224595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_99
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 303
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244fbd156eadffdb0800000000000000
+      internalID: -4755841998729251774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_100
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 301
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be759ff261d28b550800000000000000
+      internalID: 6176736462256035819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_101
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 301
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572322311920a72c0800000000000000
+      internalID: -4433228061078310283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a6047bec35a99f0800000000000000
+      internalID: -460963864549234128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_103
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 284
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ebe656c9a9a3d50800000000000000
+      internalID: 6717851790683848311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_104
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 284
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b43c35badf33c420800000000000000
+      internalID: 2649031214400025782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_105
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 284
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3939a2076ab9e30800000000000000
+      internalID: 4511382452422546429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_106
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 284
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc12bd85ffc309ad0800000000000000
+      internalID: -2697589109389844017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_107
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 284
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307aad9b3beade790800000000000000
+      internalID: -7499145717561514237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_108
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 284
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ccbb25c1926efc0800000000000000
+      internalID: -3466037661591155612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_109
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 284
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f824b516b16bc4e40800000000000000
+      internalID: 5642084661902131855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_110
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 284
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548fa7022c27a0970800000000000000
+      internalID: 8721909806450538565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_111
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 284
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a265ce167e66f77b0800000000000000
+      internalID: -5224343898760128982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_112
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 284
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d53be932e7c8de0800000000000000
+      internalID: -1329549098529628781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_113
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 284
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2e87f4b9c1dd0d0800000000000000
+      internalID: -3396527090588654866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_114
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 284
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac65fc23ba63d570800000000000000
+      internalID: 8490247040309488808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_115
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 287
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6430dc884d1a28230800000000000000
+      internalID: 3639649383069057862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_116
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 287
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840187ace101d5660800000000000000
+      internalID: 7376069489134669896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_117
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 287
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12db38fe9eb74a320800000000000000
+      internalID: 2568313932184010017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_118
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 287
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea423708823788d30800000000000000
+      internalID: 4433920450937169070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_119
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 284
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076df876cbe7c70f0800000000000000
+      internalID: -1117879259838294416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_120
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 284
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c314a0db1b37f8030800000000000000
+      internalID: 3499142642708136252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 267
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52462a42e708ac1e0800000000000000
+      internalID: -2176786190611356635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_122
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 267
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6253ba39355ee3e0800000000000000
+      internalID: -2022585478356446612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_123
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 267
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8278ec6805ec016b0800000000000000
+      internalID: -5327531513924909272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_124
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 267
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c67124eb5b802090800000000000000
+      internalID: -8061290106207504696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_125
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 267
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95de3192711c97660800000000000000
+      internalID: 7384145369268219225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_126
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 267
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d42cf256bf2fbf0800000000000000
+      internalID: -291894613814129347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_127
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 267
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917db6eaa2df95eb0800000000000000
+      internalID: -4730471573819238631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_128
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 255
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84aec90e766782330800000000000000
+      internalID: 3686326483524840008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_129
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 267
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52d21da1168a7020800000000000000
+      internalID: 2340330366848651868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_130
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 269
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc481262f26986180800000000000000
+      internalID: -9121875915991579443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_131
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 269
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290e922f1fa255d70800000000000000
+      internalID: 9031171846399713426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_132
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 269
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869ad1b084256fdc0800000000000000
+      internalID: -3605603982285887128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_133
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 269
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823617ba3807be610800000000000000
+      internalID: 1651537399180780328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_134
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 267
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5267da9fe0f9be9d0800000000000000
+      internalID: -2743924661284932059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_135
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 267
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22de467506fa5ce0800000000000000
+      internalID: -1415548629534453203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0deccce1a15fb760800000000000000
+      internalID: 7475783662362750221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_137
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 250
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb908d994bf8c100800000000000000
+      internalID: 128628882973694900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_138
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 233
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f864d9567ce6c60800000000000000
+      internalID: 7813401642778660710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_139
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 250
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f665da4631709270800000000000000
+      internalID: 8255222594967791344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_140
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 233
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca54c14c3ecccbe50800000000000000
+      internalID: 6826556413806658988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_141
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 250
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a6787dcc8f8b680800000000000000
+      internalID: -8738961518239454610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_142
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 233
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37996c4079e1c210800000000000000
+      internalID: 1351618031715456828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_143
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 250
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4549a8d70e78e30800000000000000
+      internalID: 4505816782007981300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_144
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 233
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a40d39e4126ff2d0800000000000000
+      internalID: -3242765364731509594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_145
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 233
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f000bd8a0e541a60800000000000000
+      internalID: 7643837866974380281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_146
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 217
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1d0813a73f3df90800000000000000
+      internalID: -6929927695450975820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_147
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 250
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46e7d45045fae300800000000000000
+      internalID: 282307583314224717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_148
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 233
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427d109caf46afb30800000000000000
+      internalID: 4321877820692354852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_149
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 251
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e3929834d411b30800000000000000
+      internalID: 4256268075301158443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_150
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 251
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce35a54f5e2c7e040800000000000000
+      internalID: 4676921030950409196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_151
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 251
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eeeb0025c78913e0800000000000000
+      internalID: -2082484071966183707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_152
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 251
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e00349283f38f3b0800000000000000
+      internalID: -5478559436253232922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_153
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 250
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68548bf1bac80ed90800000000000000
+      internalID: -7070496748372212346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_154
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 250
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4fe2267cb3b3fa0800000000000000
+      internalID: -5819992365914458881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_155
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 233
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc73bbbbc6b095c0800000000000000
+      internalID: -4210664665447695144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_156
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 216
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98478c92b661e53d0800000000000000
+      internalID: -3216108434377640823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_157
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 216
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f7a12c3f89bf880800000000000000
+      internalID: -8576092892695986362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_158
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 216
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6027a0e7587cbb0800000000000000
+      internalID: -4915813691863988484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_159
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 216
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd6102d33f966ae0800000000000000
+      internalID: -1556381576294470178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_160
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 234
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4226c5499d0581930800000000000000
+      internalID: 4114127155030155812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_161
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 234
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ef320b5401d0600800000000000000
+      internalID: 436022630418742881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_162
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 234
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59370a1864b04f750800000000000000
+      internalID: 6337702973067522965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_163
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 234
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be41c5465497f2a0800000000000000
+      internalID: -6703726422059299146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_164
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 233
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9c19eb062df9a30800000000000000
+      internalID: 4224326288452733403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_165
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 216
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f409ab98a279f70800000000000000
+      internalID: 9193863935329062772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_166
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 199
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e90afa16b8a5fc0800000000000000
+      internalID: -3505336108279882237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_167
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 199
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c91de3fad0e71b0800000000000000
+      internalID: -5657069035606401962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_168
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 199
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f7ddbe6e897bc40800000000000000
+      internalID: 5528055185187635103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_169
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 217
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6f9de7f347c0e60800000000000000
+      internalID: 7929840859952576191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_170
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 184
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24249340209f2aa20800000000000000
+      internalID: 3072291682876211778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_171
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 199
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6c89b3f6c6ad790800000000000000
+      internalID: -7504566604062472462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_172
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 217
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c39a59de6ce3050800000000000000
+      internalID: 5782277695310740562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_173
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 217
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f82bae214133c4a0800000000000000
+      internalID: -6574356875005187851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_174
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 217
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb84d119a674085c0800000000000000
+      internalID: -4215290728192063297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_175
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 217
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c915079ef3241f830800000000000000
+      internalID: 4103133577778057628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_176
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 216
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9e8cf0be4c9e430800000000000000
+      internalID: 3812795073407019479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_177
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 201
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d1de4f112b8e550800000000000000
+      internalID: 6190393478014115114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_178
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 205
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407db53e6d19704d0800000000000000
+      internalID: -3168403460708378876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_179
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 200
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ce6827f945ae620800000000000000
+      internalID: 2804146761789533232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_180
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 200
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da96b7cd2e0205a0800000000000000
+      internalID: -6556662517711070512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_181
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 200
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e4c6fba55c8cb80800000000000000
+      internalID: -8374226513546162644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_182
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 200
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049a9e15edd49c5f0800000000000000
+      internalID: -735971446846019264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_183
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 199
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550b44f0e46ce7d00800000000000000
+      internalID: 972432608124514389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_184
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 182
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac9fa0afcfe5a360800000000000000
+      internalID: 7180408855945256097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_185
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 182
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1766fce1620446c90800000000000000
+      internalID: -7177541373651884431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_186
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 182
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a103cc006b1bdd1c0800000000000000
+      internalID: -4477227059280859110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_187
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 184
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7be4615b26f6d20800000000000000
+      internalID: 3273943984024500180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_188
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 151
+        width: 78
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a6d4ff17aeea190800000000000000
+      internalID: -7949158516926879101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_189
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 183
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23523ea126603da0800000000000000
+      internalID: -5967157211423419603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_190
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 183
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e36910a993cd130800000000000000
+      internalID: 3592809936349183627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_191
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 183
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d439c3e2aaee650800000000000000
+      internalID: 6264131247280442669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_192
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 183
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83fda00f6074f450800000000000000
+      internalID: 6121641415558427530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_193
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 182
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa7e5de310794b00800000000000000
+      internalID: 813304438606166695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_194
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 165
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640d3be49c53e9b80800000000000000
+      internalID: -8386206317392179130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_195
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 118
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6b98bce249ddd80800000000000000
+      internalID: -8224254415804451088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_196
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 148
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1517cdc86629b70800000000000000
+      internalID: 8904292168444760573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_197
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 131
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414cfa1686b937c80800000000000000
+      internalID: -8326140413460102124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungen Tiles 2 (1)_198
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 85
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889660dc2188ca1e0800000000000000
+      internalID: -2185222104850994808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
