@@ -925,12 +925,12 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 0
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: a4b174d4-8c01-4ffb-94c2-7986e1ea7980
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: SeregaGame
   organizationId: gdvladic
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0

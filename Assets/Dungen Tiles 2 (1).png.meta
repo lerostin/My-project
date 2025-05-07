@@ -690,6 +690,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -5084,7 +5097,206 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dungen Tiles 2 (1)_0: 734149352483253017
+      Dungen Tiles 2 (1)_1: 2445236306321640844
+      Dungen Tiles 2 (1)_10: 8082305532480419498
+      Dungen Tiles 2 (1)_100: 6176736462256035819
+      Dungen Tiles 2 (1)_101: -4433228061078310283
+      Dungen Tiles 2 (1)_102: -460963864549234128
+      Dungen Tiles 2 (1)_103: 6717851790683848311
+      Dungen Tiles 2 (1)_104: 2649031214400025782
+      Dungen Tiles 2 (1)_105: 4511382452422546429
+      Dungen Tiles 2 (1)_106: -2697589109389844017
+      Dungen Tiles 2 (1)_107: -7499145717561514237
+      Dungen Tiles 2 (1)_108: -3466037661591155612
+      Dungen Tiles 2 (1)_109: 5642084661902131855
+      Dungen Tiles 2 (1)_11: -7919427812368679912
+      Dungen Tiles 2 (1)_110: 8721909806450538565
+      Dungen Tiles 2 (1)_111: -5224343898760128982
+      Dungen Tiles 2 (1)_112: -1329549098529628781
+      Dungen Tiles 2 (1)_113: -3396527090588654866
+      Dungen Tiles 2 (1)_114: 8490247040309488808
+      Dungen Tiles 2 (1)_115: 3639649383069057862
+      Dungen Tiles 2 (1)_116: 7376069489134669896
+      Dungen Tiles 2 (1)_117: 2568313932184010017
+      Dungen Tiles 2 (1)_118: 4433920450937169070
+      Dungen Tiles 2 (1)_119: -1117879259838294416
+      Dungen Tiles 2 (1)_12: -5284415070933550077
+      Dungen Tiles 2 (1)_120: 3499142642708136252
+      Dungen Tiles 2 (1)_121: -2176786190611356635
+      Dungen Tiles 2 (1)_122: -2022585478356446612
+      Dungen Tiles 2 (1)_123: -5327531513924909272
+      Dungen Tiles 2 (1)_124: -8061290106207504696
+      Dungen Tiles 2 (1)_125: 7384145369268219225
+      Dungen Tiles 2 (1)_126: -291894613814129347
+      Dungen Tiles 2 (1)_127: -4730471573819238631
+      Dungen Tiles 2 (1)_128: 3686326483524840008
+      Dungen Tiles 2 (1)_129: 2340330366848651868
+      Dungen Tiles 2 (1)_13: 7558576757042030062
+      Dungen Tiles 2 (1)_130: -9121875915991579443
+      Dungen Tiles 2 (1)_131: 9031171846399713426
+      Dungen Tiles 2 (1)_132: -3605603982285887128
+      Dungen Tiles 2 (1)_133: 1651537399180780328
+      Dungen Tiles 2 (1)_134: -2743924661284932059
+      Dungen Tiles 2 (1)_135: -1415548629534453203
+      Dungen Tiles 2 (1)_136: 7475783662362750221
+      Dungen Tiles 2 (1)_137: 128628882973694900
+      Dungen Tiles 2 (1)_138: 7813401642778660710
+      Dungen Tiles 2 (1)_139: 8255222594967791344
+      Dungen Tiles 2 (1)_14: 3596245780382538851
+      Dungen Tiles 2 (1)_140: 6826556413806658988
+      Dungen Tiles 2 (1)_141: -8738961518239454610
+      Dungen Tiles 2 (1)_142: 1351618031715456828
+      Dungen Tiles 2 (1)_143: 4505816782007981300
+      Dungen Tiles 2 (1)_144: -3242765364731509594
+      Dungen Tiles 2 (1)_145: 7643837866974380281
+      Dungen Tiles 2 (1)_146: -6929927695450975820
+      Dungen Tiles 2 (1)_147: 282307583314224717
+      Dungen Tiles 2 (1)_148: 4321877820692354852
+      Dungen Tiles 2 (1)_149: 4256268075301158443
+      Dungen Tiles 2 (1)_15: -8368730931258551618
+      Dungen Tiles 2 (1)_150: 4676921030950409196
+      Dungen Tiles 2 (1)_151: -2082484071966183707
+      Dungen Tiles 2 (1)_152: -5478559436253232922
+      Dungen Tiles 2 (1)_153: -7070496748372212346
+      Dungen Tiles 2 (1)_154: -5819992365914458881
+      Dungen Tiles 2 (1)_155: -4210664665447695144
+      Dungen Tiles 2 (1)_156: -3216108434377640823
+      Dungen Tiles 2 (1)_157: -8576092892695986362
+      Dungen Tiles 2 (1)_158: -4915813691863988484
+      Dungen Tiles 2 (1)_159: -1556381576294470178
+      Dungen Tiles 2 (1)_16: -7007907985754897772
+      Dungen Tiles 2 (1)_160: 4114127155030155812
+      Dungen Tiles 2 (1)_161: 436022630418742881
+      Dungen Tiles 2 (1)_162: 6337702973067522965
+      Dungen Tiles 2 (1)_163: -6703726422059299146
+      Dungen Tiles 2 (1)_164: 4224326288452733403
+      Dungen Tiles 2 (1)_165: 9193863935329062772
+      Dungen Tiles 2 (1)_166: -3505336108279882237
+      Dungen Tiles 2 (1)_167: -5657069035606401962
+      Dungen Tiles 2 (1)_168: 5528055185187635103
+      Dungen Tiles 2 (1)_169: 7929840859952576191
+      Dungen Tiles 2 (1)_17: -3398917446163682032
+      Dungen Tiles 2 (1)_170: 3072291682876211778
+      Dungen Tiles 2 (1)_171: -7504566604062472462
+      Dungen Tiles 2 (1)_172: 5782277695310740562
+      Dungen Tiles 2 (1)_173: -6574356875005187851
+      Dungen Tiles 2 (1)_174: -4215290728192063297
+      Dungen Tiles 2 (1)_175: 4103133577778057628
+      Dungen Tiles 2 (1)_176: 3812795073407019479
+      Dungen Tiles 2 (1)_177: 6190393478014115114
+      Dungen Tiles 2 (1)_178: -3168403460708378876
+      Dungen Tiles 2 (1)_179: 2804146761789533232
+      Dungen Tiles 2 (1)_18: 1660126592916274702
+      Dungen Tiles 2 (1)_180: -6556662517711070512
+      Dungen Tiles 2 (1)_181: -8374226513546162644
+      Dungen Tiles 2 (1)_182: -735971446846019264
+      Dungen Tiles 2 (1)_183: 972432608124514389
+      Dungen Tiles 2 (1)_184: 7180408855945256097
+      Dungen Tiles 2 (1)_185: -7177541373651884431
+      Dungen Tiles 2 (1)_186: -4477227059280859110
+      Dungen Tiles 2 (1)_187: 3273943984024500180
+      Dungen Tiles 2 (1)_188: -7949158516926879101
+      Dungen Tiles 2 (1)_189: -5967157211423419603
+      Dungen Tiles 2 (1)_19: -600161323298716157
+      Dungen Tiles 2 (1)_190: 3592809936349183627
+      Dungen Tiles 2 (1)_191: 6264131247280442669
+      Dungen Tiles 2 (1)_192: 6121641415558427530
+      Dungen Tiles 2 (1)_193: 813304438606166695
+      Dungen Tiles 2 (1)_194: -8386206317392179130
+      Dungen Tiles 2 (1)_195: -8224254415804451088
+      Dungen Tiles 2 (1)_196: 8904292168444760573
+      Dungen Tiles 2 (1)_197: -8326140413460102124
+      Dungen Tiles 2 (1)_198: -2185222104850994808
+      Dungen Tiles 2 (1)_2: -6636570258719932744
+      Dungen Tiles 2 (1)_20: 8141092851388562678
+      Dungen Tiles 2 (1)_21: -794848292587007987
+      Dungen Tiles 2 (1)_22: -6248903558404668978
+      Dungen Tiles 2 (1)_23: 9113423015301508566
+      Dungen Tiles 2 (1)_24: -1456822928399060244
+      Dungen Tiles 2 (1)_25: -3919511131605317104
+      Dungen Tiles 2 (1)_26: -3754594766684859134
+      Dungen Tiles 2 (1)_27: 2461217181894320670
+      Dungen Tiles 2 (1)_28: -4698604164013556492
+      Dungen Tiles 2 (1)_29: 9158441071755364975
+      Dungen Tiles 2 (1)_3: 6334688262562478329
+      Dungen Tiles 2 (1)_30: -4879792825534012842
+      Dungen Tiles 2 (1)_31: -3629467867683532008
+      Dungen Tiles 2 (1)_32: -22981691147179011
+      Dungen Tiles 2 (1)_33: -7343855052752329113
+      Dungen Tiles 2 (1)_34: -5524271557922620298
+      Dungen Tiles 2 (1)_35: 9118443654929054729
+      Dungen Tiles 2 (1)_36: -1645176648510806748
+      Dungen Tiles 2 (1)_37: -5835886093370055029
+      Dungen Tiles 2 (1)_38: 5288315086515249551
+      Dungen Tiles 2 (1)_39: 3992563855185467372
+      Dungen Tiles 2 (1)_4: -1416125415867823040
+      Dungen Tiles 2 (1)_40: -115421860828955006
+      Dungen Tiles 2 (1)_41: 4619494199283762931
+      Dungen Tiles 2 (1)_42: 3114351380222192870
+      Dungen Tiles 2 (1)_43: -2295921558740678437
+      Dungen Tiles 2 (1)_44: 8230507855773950354
+      Dungen Tiles 2 (1)_45: 4120705694308530445
+      Dungen Tiles 2 (1)_46: -3370069975785948539
+      Dungen Tiles 2 (1)_47: 47983438203800586
+      Dungen Tiles 2 (1)_48: -8413793302573533983
+      Dungen Tiles 2 (1)_49: -865262648251569164
+      Dungen Tiles 2 (1)_5: 1826341134579545356
+      Dungen Tiles 2 (1)_50: 3278283404035690588
+      Dungen Tiles 2 (1)_51: -6616162462181245498
+      Dungen Tiles 2 (1)_52: 4162896434101877288
+      Dungen Tiles 2 (1)_53: 8113972492567024456
+      Dungen Tiles 2 (1)_54: 9046156199567783421
+      Dungen Tiles 2 (1)_55: 9065060295148448492
+      Dungen Tiles 2 (1)_56: 3199802136149892360
+      Dungen Tiles 2 (1)_57: -3966707956883425636
+      Dungen Tiles 2 (1)_58: -2805327583818779616
+      Dungen Tiles 2 (1)_59: -7768146036697799169
+      Dungen Tiles 2 (1)_6: 4862104453993287691
+      Dungen Tiles 2 (1)_60: -4798620806893724065
+      Dungen Tiles 2 (1)_61: 3056695398974793259
+      Dungen Tiles 2 (1)_62: -1606567723682464794
+      Dungen Tiles 2 (1)_63: -3348363545459255747
+      Dungen Tiles 2 (1)_64: -7951173051766784690
+      Dungen Tiles 2 (1)_65: -8851242590202899377
+      Dungen Tiles 2 (1)_66: -6701326455708559221
+      Dungen Tiles 2 (1)_67: -8054510583404169694
+      Dungen Tiles 2 (1)_68: 8031138247552866375
+      Dungen Tiles 2 (1)_69: 6726836248544725983
+      Dungen Tiles 2 (1)_7: -1489919526855297361
+      Dungen Tiles 2 (1)_70: -7811041098538922156
+      Dungen Tiles 2 (1)_71: 1580962927220562120
+      Dungen Tiles 2 (1)_72: -1438986451474807927
+      Dungen Tiles 2 (1)_73: 1616503119356047301
+      Dungen Tiles 2 (1)_74: -5701077273266455082
+      Dungen Tiles 2 (1)_75: -537836626999608545
+      Dungen Tiles 2 (1)_76: 2513882509972417204
+      Dungen Tiles 2 (1)_77: 5784338978771101227
+      Dungen Tiles 2 (1)_78: 2589664445606083860
+      Dungen Tiles 2 (1)_79: 5417767912914239435
+      Dungen Tiles 2 (1)_8: 3332035617658832079
+      Dungen Tiles 2 (1)_80: -4271358377010770676
+      Dungen Tiles 2 (1)_81: -514513657646077970
+      Dungen Tiles 2 (1)_82: -6022119785545394600
+      Dungen Tiles 2 (1)_83: -325672718463962193
+      Dungen Tiles 2 (1)_84: -5030890898432216712
+      Dungen Tiles 2 (1)_85: -4938952039606792123
+      Dungen Tiles 2 (1)_86: 8233590154679382056
+      Dungen Tiles 2 (1)_87: -9061452565385946498
+      Dungen Tiles 2 (1)_88: -3527093045863911823
+      Dungen Tiles 2 (1)_89: 7507234146391376901
+      Dungen Tiles 2 (1)_9: 4064403012528802460
+      Dungen Tiles 2 (1)_90: -2209367818063654955
+      Dungen Tiles 2 (1)_91: -604867117711270518
+      Dungen Tiles 2 (1)_92: -1753066193189340832
+      Dungen Tiles 2 (1)_93: 2096599361510099739
+      Dungen Tiles 2 (1)_94: 9210873193299874373
+      Dungen Tiles 2 (1)_95: -613487719922614789
+      Dungen Tiles 2 (1)_96: 1096406570048424031
+      Dungen Tiles 2 (1)_97: -3461084262930606019
+      Dungen Tiles 2 (1)_98: -5081813809673224595
+      Dungen Tiles 2 (1)_99: -4755841998729251774
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
